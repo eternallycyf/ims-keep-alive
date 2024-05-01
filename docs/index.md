@@ -11,8 +11,6 @@ hero:
       link: https://github.com/eternallycyf/ims-keep-alive/
 ---
 
-<embed src="../README.md"></embed>
-
 ```tsx | demo
 /**
  * inline: true
@@ -42,12 +40,3 @@ export default () => (
   </Section>
 );
 ```
-
-工程框架选型如下：
-
-- 构建： father4
-- 文档： dumi2
-- CI: Github Action
-- CD:
-  - 文档发布: 使用 vercel 自动化触发文档站构建;
-  - npm 发布: 使用 `semantic-release` 实现 npm 包的自动化发布;
