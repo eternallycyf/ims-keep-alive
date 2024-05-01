@@ -11,7 +11,6 @@ const isProd = process.env.NODE_ENV === 'production';
 const themeConfig: SiteThemeConfig = {
   name: repo,
   github: homepage,
-  showCustomContent: true,
   logo: isProd ? '/images/origin.png' : `/${repo}/images/origin.png`,
   hero: {
     'zh-CN': {

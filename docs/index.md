@@ -21,7 +21,7 @@ import './site/styles.less';
 
 export default () => (
   <Section
-    title="Experience the ultimate in lordaeron online"
+    title="Experience the ultimate in ims-keep-alive online"
     style={{ marginTop: 40 }}
     titleStyle={{
       paddingBottom: 100,
