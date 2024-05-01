@@ -1,12 +1,12 @@
 <a name="readme-top"></a>
 
+> 🚧 Don't use this for production code!
+
 <div align="center">
 
 [//]: # '<img width="160" src="https://avatars.githubusercontent.com/u/17870709?v=4">'
 
 <h1>ims-keep-alive</h1>
-
-> 🚧 Don't use this for production code!
 
 react keepalive
 
