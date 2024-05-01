@@ -1,12 +1,12 @@
 ---
 hero:
-  title: ims-template
-  description: a online docs and npm package template
+  title: ims-keep-alive
+  description: React KeepAlive
   actions:
     - text: 快速上手
-      link: /guide
+      link: /components
     - text: Github
-      link: https://github.com/eternallycyf/ims-template/
+      link: https://github.com/eternallycyf/ims-keep-alive/
 ---
 
 <embed src="../README.md"></embed>

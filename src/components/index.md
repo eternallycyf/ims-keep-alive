@@ -10,17 +10,16 @@ apiHeader: false
 ## 使用方式
 
 ```shell
-pnpm i 'ims-template'
+pnpm i 'ims-keep-alive'
 ```
 
 ## peerDependencies
 
 ```JSON
 "peerDependencies": {
-  "@ant-design/icons": "^5.2.6",
-  "antd": "^5",
-  "lodash": "^4.17.21",
   "react": "^18",
-  "react-dom": "^18"
+  "react-dom": "^18",
+  "react-router-dom": "^6.23.0",
+  "lodash": "^4.17.21",
 }
 ```
